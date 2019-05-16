@@ -1,6 +1,6 @@
 {
   "name": "@blue-tomato/eslint-config-blue-tomato",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config by Blue Tomato",
   "main": "index.js",
   "repository": {
