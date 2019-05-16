@@ -5,7 +5,6 @@ module.exports = {
     "object-curly-spacing": ["warn", "always"],
     "max-len": ["warn", { "code": 120, "tabWidth": 2 }],
     "operator-linebreak": ["warn", "after"],
-    "react/prop-types": "off",
     "import/no-unresolved": "off",
     "no-nested-ternary": "off",
     "no-bitwise": "off",
