@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-blue-tomato",
+  "version": "1.0.0",
+  "description": "ESLint config by Blue Tomato",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue-tomato/eslint-config-blue-tomato.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "blue-tomato"
+  ],
+  "author": "developer@blue-tomato.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blue-tomato/eslint-config-blue-tomato/issues"
+  },
+  "homepage": "https://github.com/blue-tomato/eslint-config-blue-tomato#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5"
+  }
+}
