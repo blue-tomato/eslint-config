@@ -1,0 +1,33 @@
+{
+  "name": "@blue-tomato/eslint-config-react",
+  "version": "1.0.2",
+  "description": "ESLint config for React.js by Blue Tomato",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue-tomato/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "react",
+    "blue-tomato"
+  ],
+  "author": "developer@blue-tomato.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blue-tomato/eslint-config/issues"
+  },
+  "homepage": "https://github.com/blue-tomato/eslint-config#readme",
+  "dependencies": {
+    "@blue-tomato/eslint-config": "*",
+    "eslint-config-airbnb": "^17.1.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=5",
+    "eslint-plugin-import": ">= 2",
+    "eslint-plugin-jsx-a11y": ">= 6",
+    "eslint-plugin-react": ">= 7"
+  }
+}
