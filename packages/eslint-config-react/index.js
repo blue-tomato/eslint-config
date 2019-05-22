@@ -4,6 +4,6 @@ module.exports = {
     '@blue-tomato'
   ],
   rules: {
-    "react/prop-types": "off"
+    'react/prop-types': 'off'
   },
 };
