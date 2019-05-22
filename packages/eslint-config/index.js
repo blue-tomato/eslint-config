@@ -11,6 +11,7 @@ module.exports = {
     "class-methods-use-this": "off",
     "global-require": "off",
     "import/no-dynamic-require": "off",
-    "radix": ["warn", "as-needed"]
+    "radix": ["warn", "as-needed"],
+    "arrow-parens": ["warn", "as-needed"]
   },
 };
