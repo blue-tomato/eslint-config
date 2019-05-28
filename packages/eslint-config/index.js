@@ -15,5 +15,6 @@ module.exports = {
     'arrow-parens': ['error', 'as-needed'],
     'capitalized-comments': ['error', 'always'],
     'multiline-comment-style': ['error', 'starred-block'],
+    'no-return-assign': ['error', 'except-parens'],
   },
 };
