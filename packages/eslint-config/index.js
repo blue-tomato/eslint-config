@@ -16,5 +16,10 @@ module.exports = {
     'capitalized-comments': ['error', 'always'],
     'multiline-comment-style': ['error', 'starred-block'],
     'no-return-assign': ['error', 'except-parens'],
+    'import/no-extraneous-dependencies': ['error', {
+      'devDependencies': true,
+      'optionalDependencies': true,
+      'peerDependencies': false,
+    }],
   },
 };
