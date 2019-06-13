@@ -1,4 +1,4 @@
-ESLint configs by Blue Tomato.
+🖋 ESLint configs by Blue Tomato.
 
 # Installation
 ## Base
