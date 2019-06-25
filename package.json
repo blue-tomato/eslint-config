@@ -2,7 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "new-version": "lerna version"
+    "new-version": "lerna version",
+    "new-publish": "lerna publish from-package"
   },
   "devDependencies": {
     "lerna": "^3.15.0"
