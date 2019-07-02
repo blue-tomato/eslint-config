@@ -1,5 +1,8 @@
 module.exports = {
   extends: 'airbnb-base',
+  plugins: [
+    'import',
+  ],
   rules: {
     'key-spacing': 'error',
     'object-curly-spacing': ['error', 'always'],
