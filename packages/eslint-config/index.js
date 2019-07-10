@@ -25,5 +25,6 @@ module.exports = {
       'peerDependencies': false,
     }],
     'no-new': 'off',
+    'import/prefer-default-export': 'off',
   },
 };
