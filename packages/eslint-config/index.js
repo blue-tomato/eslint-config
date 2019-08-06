@@ -16,7 +16,7 @@ module.exports = {
     'import/no-dynamic-require': 'off',
     'radix': ['error', 'as-needed'],
     'arrow-parens': ['error', 'as-needed'],
-    'capitalized-comments': ['error', 'always'],
+    'capitalized-comments': 'off',
     'multiline-comment-style': ['error', 'starred-block'],
     'no-return-assign': ['error', 'except-parens'],
     'import/no-extraneous-dependencies': ['error', {
@@ -26,5 +26,6 @@ module.exports = {
     }],
     'no-new': 'off',
     'import/prefer-default-export': 'off',
+    'no-plusplus': 'off',
   },
 };
