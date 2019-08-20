@@ -30,5 +30,6 @@
     "eslint-plugin-jsx-a11y": ">= 6",
     "eslint-plugin-react": ">= 7",
     "eslint-plugin-react-hooks": ">= 1"
-  }
+  },
+  "gitHead": "2f3a5791695edd613be0c106c682a0e832b6f2cd"
 }
