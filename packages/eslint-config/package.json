@@ -25,5 +25,6 @@
   "peerDependencies": {
     "eslint": ">= 6",
     "eslint-plugin-import": ">= 2"
-  }
+  },
+  "gitHead": "2f3a5791695edd613be0c106c682a0e832b6f2cd"
 }
