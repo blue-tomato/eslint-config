@@ -27,5 +27,6 @@ module.exports = {
     'no-new': 'off',
     'import/prefer-default-export': 'off',
     'no-plusplus': 'off',
+    'import/no-cycle': 'off',
   },
 };
