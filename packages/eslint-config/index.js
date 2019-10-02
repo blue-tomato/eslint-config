@@ -6,7 +6,7 @@ module.exports = {
   rules: {
     'key-spacing': 'error',
     'object-curly-spacing': ['error', 'always'],
-    'max-len': ['error', { 'code': 120, 'tabWidth': 2 }],
+    'max-len': ['error', { code: 120, tabWidth: 2 }],
     'operator-linebreak': ['error', 'after'],
     'import/no-unresolved': 'off',
     'no-nested-ternary': 'off',
@@ -20,13 +20,14 @@ module.exports = {
     'multiline-comment-style': ['error', 'starred-block'],
     'no-return-assign': ['error', 'except-parens'],
     'import/no-extraneous-dependencies': ['error', {
-      'devDependencies': true,
-      'optionalDependencies': true,
-      'peerDependencies': false,
+      devDependencies: true,
+      optionalDependencies: true,
+      peerDependencies: false,
     }],
     'no-new': 'off',
     'import/prefer-default-export': 'off',
     'no-plusplus': 'off',
     'import/no-cycle': 'off',
+    'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }]
   },
 };
