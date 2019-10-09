@@ -1,14 +1,17 @@
+const prettierConfig = require('./prettier.config');
+
 module.exports = {
   extends: [
     'airbnb-base',
-    'prettier'
+    'prettier',
+    'prettier/react',
   ],
   plugins: [
     'import',
     'prettier',
   ],
   rules: {
-    'prettier/prettier': 'error',
+    'prettier/prettier': ['error', prettierConfig],
     'key-spacing': 'error',
     'object-curly-spacing': ['error', 'always'],
     'max-len': ['error', { code: 120, tabWidth: 2 }],
