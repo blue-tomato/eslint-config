@@ -11,7 +11,8 @@
     "eslint",
     "config",
     "eslintconfig",
-    "blue-tomato"
+    "blue-tomato",
+    "prettier"
   ],
   "author": "developer@blue-tomato.com",
   "license": "MIT",

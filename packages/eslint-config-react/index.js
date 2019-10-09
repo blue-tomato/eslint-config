@@ -2,6 +2,7 @@ module.exports = {
   extends: [
     'airbnb',
     '@blue-tomato',
+    'prettier/react',
   ],
   plugins: [
     'import',
