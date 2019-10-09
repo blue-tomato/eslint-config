@@ -1,9 +1,14 @@
 module.exports = {
-  extends: 'airbnb-base',
+  extends: [
+    'airbnb-base',
+    'prettier'
+  ],
   plugins: [
     'import',
+    'prettier',
   ],
   rules: {
+    'prettier/prettier': 'error',
     'key-spacing': 'error',
     'object-curly-spacing': ['error', 'always'],
     'max-len': ['error', { code: 120, tabWidth: 2 }],
