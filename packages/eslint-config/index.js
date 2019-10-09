@@ -4,7 +4,6 @@ module.exports = {
   extends: [
     'airbnb-base',
     'prettier',
-    'prettier/react',
   ],
   plugins: [
     'import',
@@ -15,7 +14,7 @@ module.exports = {
     'key-spacing': 'error',
     'object-curly-spacing': ['error', 'always'],
     'max-len': ['error', { code: 120, tabWidth: 2 }],
-    'operator-linebreak': ['error', 'after'],
+    'operator-linebreak': 'off',
     'import/no-unresolved': 'off',
     'no-nested-ternary': 'off',
     'no-bitwise': 'off',
