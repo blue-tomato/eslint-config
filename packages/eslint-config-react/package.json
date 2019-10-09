@@ -12,7 +12,8 @@
     "config",
     "eslintconfig",
     "react",
-    "blue-tomato"
+    "blue-tomato",
+    "prettier"
   ],
   "author": "developer@blue-tomato.com",
   "license": "MIT",
@@ -22,7 +23,8 @@
   "homepage": "https://github.com/blue-tomato/eslint-config#readme",
   "dependencies": {
     "@blue-tomato/eslint-config": "^1.2.2",
-    "eslint-config-airbnb": "^18.0.1"
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0"
   },
   "peerDependencies": {
     "eslint": ">=6",
