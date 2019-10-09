@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'airbnb',
-    '@blue-tomato'
+    '@blue-tomato',
   ],
   plugins: [
     'import',
