@@ -1,6 +1,6 @@
 {
   "name": "@blue-tomato/eslint-config-react",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "description": "🖋 ESLint config for React.js by Blue Tomato",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/blue-tomato/eslint-config#readme",
   "dependencies": {
-    "@blue-tomato/eslint-config": "^1.1.6",
+    "@blue-tomato/eslint-config": "^1.2.0",
     "eslint-config-airbnb": "^18.0.1"
   },
   "peerDependencies": {
