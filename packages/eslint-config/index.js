@@ -35,6 +35,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'no-plusplus': 'off',
     'import/no-cycle': 'off',
-    'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }]
+    'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }],
+    'no-underscore-dangle': 'off',
   },
 };
