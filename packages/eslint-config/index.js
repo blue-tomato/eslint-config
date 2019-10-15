@@ -37,5 +37,6 @@ module.exports = {
     'import/no-cycle': 'off',
     'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }],
     'no-underscore-dangle': 'off',
+    'arrow-body-style': ['error', 'as-needed'],
   },
 };
