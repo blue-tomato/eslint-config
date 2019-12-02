@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@blue-tomato/eslint-config@^1.2.4":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@blue-tomato/eslint-config/-/eslint-config-1.2.4.tgz#e0b9565cdc48846664b17df3ebae598f089d9540"
-  integrity sha512-qov83YISUsoR+or1l7LYM1O7uggeX7OE0ld06oQv/+iX6rZJfYHeHjhmVUn5oeKnnLCud6f7DCU8KePsfffnEA==
+"@blue-tomato/eslint-config@^1.2.8":
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/@blue-tomato/eslint-config/-/eslint-config-1.2.8.tgz#72413d9146f0c888f65b60a6a59ad007d413c45c"
+  integrity sha512-DNNsSj3j4yd4vWwAJVidihLMhwGorMuHQK3j9uU5ffybJiiBXS1TPLCZfbScBPHMCN11KOfQHZu0/1Eh9oWXoA==
   dependencies:
     eslint-config-airbnb-base "^14.0.0"
     eslint-config-prettier "^6.4.0"
@@ -69,6 +69,13 @@ eslint-config-prettier@^6.4.0:
   version "6.4.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.4.0.tgz#0a04f147e31d33c6c161b2dd0971418ac52d0477"
   integrity sha512-YrKucoFdc7SEko5Sxe4r6ixqXPDP1tunGw91POeZTTRKItf/AMFYt/YLEQtZMkR2LVpAVhcAcZgcWpm1oGPW7w==
+  dependencies:
+    get-stdin "^6.0.0"
+
+eslint-config-prettier@^6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.7.0.tgz#9a876952e12df2b284adbd3440994bf1f39dfbb9"
+  integrity sha512-FamQVKM3jjUVwhG4hEMnbtsq7xOIDm+SY5iBPfR8gKsJoAB2IQnNF+bk1+8Fy44Nq7PPJaLvkRxILYdJWoguKQ==
   dependencies:
     get-stdin "^6.0.0"
 
