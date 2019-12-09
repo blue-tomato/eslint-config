@@ -38,5 +38,7 @@ module.exports = {
     'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }],
     'no-underscore-dangle': 'off',
     'arrow-body-style': ['error', 'as-needed'],
+    'import/extensions': 'off',
+    'import/order': ['error', { groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] }],
   },
 };
