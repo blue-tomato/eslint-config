@@ -22,7 +22,7 @@
   "homepage": "https://github.com/blue-tomato/eslint-config#readme",
   "dependencies": {
     "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.7.0"
+    "eslint-config-prettier": "^6.10.0"
   },
   "peerDependencies": {
     "eslint": ">=6",
