@@ -24,7 +24,7 @@ module.exports = {
     'radix': ['error', 'as-needed'],
     'arrow-parens': ['error', 'as-needed'],
     'capitalized-comments': 'off',
-    'multiline-comment-style': ['error', 'starred-block'],
+    'multiline-comment-style': ['error', 'separate-lines'],
     'no-return-assign': ['error', 'except-parens'],
     'import/no-extraneous-dependencies': ['error', {
       devDependencies: true,
