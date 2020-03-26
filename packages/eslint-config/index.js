@@ -40,5 +40,6 @@ module.exports = {
     'arrow-body-style': ['error', 'as-needed'],
     'import/extensions': 'off',
     'import/order': ['error', { groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] }],
+    'arrow-parens': 'off',
   },
 };
