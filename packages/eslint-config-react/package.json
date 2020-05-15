@@ -24,15 +24,15 @@
   "dependencies": {
     "@blue-tomato/eslint-config": "^2.0.1",
     "eslint-config-airbnb": "^18.1.0",
-    "eslint-config-prettier": "^6.10.1"
+    "eslint-config-prettier": "^6.11.0"
   },
   "peerDependencies": {
-    "eslint": ">=6",
+    "eslint": ">=7",
     "eslint-plugin-import": ">=2",
     "eslint-plugin-jsx-a11y": ">=6",
     "eslint-plugin-prettier": ">=3",
     "eslint-plugin-react": ">=7",
-    "eslint-plugin-react-hooks": ">=2",
+    "eslint-plugin-react-hooks": ">=4",
     "prettier": ">=2"
   },
   "gitHead": "2f3a5791695edd613be0c106c682a0e832b6f2cd"
