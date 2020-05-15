@@ -41,5 +41,6 @@ module.exports = {
     'import/extensions': 'off',
     'import/order': ['error', { groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] }],
     'arrow-parens': 'off',
+    'no-param-reassign': ['error', { 'props': false }],
   },
 };
