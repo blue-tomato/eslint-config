@@ -42,5 +42,6 @@ module.exports = {
     'import/order': ['error', { groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] }],
     'arrow-parens': 'off',
     'no-param-reassign': ['error', { 'props': false }],
+    'max-classes-per-file': 'off',
   },
 };
