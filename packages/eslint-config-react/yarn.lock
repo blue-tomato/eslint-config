@@ -2,13 +2,13 @@
 # yarn lockfile v1
 
 
-"@blue-tomato/eslint-config@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@blue-tomato/eslint-config/-/eslint-config-2.0.1.tgz#3ef396d9be75ffbd0e072baac1ecd48e1e739379"
-  integrity sha512-+JkzALsFBZi7JK9VyL53nzi+jJnOvjI3XWg5QgVhfGcmTYVL1MCK+ojTVFDpfczCVjgpFKY0coevLFkXG8hLLQ==
+"@blue-tomato/eslint-config@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@blue-tomato/eslint-config/-/eslint-config-2.0.2.tgz#217d2471661d80a2136e4f7696f834b0d25050a5"
+  integrity sha512-VDPTgMNL5zUoNAZ4Aujr5OYsNuoblemcxu6nBXPWtmhoCsVVphXw3tfhSoEFke/ONUi97nP37kWh41tzlUlj8g==
   dependencies:
     eslint-config-airbnb-base "^14.1.0"
-    eslint-config-prettier "^6.10.1"
+    eslint-config-prettier "^6.11.0"
 
 confusing-browser-globals@^1.0.9:
   version "1.0.9"
@@ -65,13 +65,6 @@ eslint-config-airbnb@^18.1.0:
     eslint-config-airbnb-base "^14.1.0"
     object.assign "^4.1.0"
     object.entries "^1.1.1"
-
-eslint-config-prettier@^6.10.1:
-  version "6.10.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.10.1.tgz#129ef9ec575d5ddc0e269667bf09defcd898642a"
-  integrity sha512-svTy6zh1ecQojvpbJSgH3aei/Rt7C6i090l5f2WQ4aB05lYHeZIR1qL4wZyyILTbtmnbHP5Yn8MrsOJMGa8RkQ==
-  dependencies:
-    get-stdin "^6.0.0"
 
 eslint-config-prettier@^6.11.0:
   version "6.11.0"
